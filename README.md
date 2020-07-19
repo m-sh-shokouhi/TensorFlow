@@ -1,5 +1,5 @@
 # What's new in TensorFlow 2.0
-Actually, There a lot new in TensorFlow
+Actually, There is a lot new in TensorFlow
 The following are all the changes coming in TensorFlow 2.0. Let's have a closer look at them:
 
 * Eager Execution / tf.function
